@@ -1,1 +1,1 @@
-# Recommendation-Based-Purchase-Prediction
+This project aims to predict whether an online shopper will make a purchase based on their browsing behavior. Using the Online Shoppers Purchasing Intention Dataset from UCI, we preprocess the data by handling missing values, encoding categorical features, and standardizing numerical variables. Feature selection techniques are applied to remove redundant attributes, improving model performance. 
